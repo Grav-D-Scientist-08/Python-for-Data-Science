@@ -13,8 +13,8 @@ I’m Gaurav Bisht, passionate about diving into the endless possibilities of da
 ---
 
 ## 🛠️ Skills & Tools  
-- **Programming Languages:** Python, R, SQL  
-- **Visualization Tools:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Programming Languages:** Python, SQL  
+- **Visualization Tools:** Power BI, Matplotlib, Seaborn  
 - **Data Science:** Machine Learning, Statistical Analysis, Predictive Modeling  
 - **Other Tools:** Excel, Git, Jupyter Notebooks  
 
