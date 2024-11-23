@@ -40,8 +40,8 @@ I’m Gaurav Bisht, passionate about diving into the endless possibilities of da
 
 **“Turning data into stories that matter!”**  
 
-# 🌟 Gaurav Bisht – Data Enthusiast and Explorer 🚀
 
-![Data Science Visual](images/data_science_visual.jpg)
+![Alt text](images/Ds.webp)
+
 
 
