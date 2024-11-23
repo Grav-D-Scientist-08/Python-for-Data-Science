@@ -22,13 +22,15 @@ I’m Gaurav Bisht, passionate about diving into the endless possibilities of da
 
 ## 🌐 Let's Connect  
 - **📧 Email:** gauravbisht@7289gmail.com  
-- **💼 LinkedIn:** [Your LinkedIn Profile](#)  
-- **🌟 GitHub:** [Your GitHub Profile](#)  
+- **💼 LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/gaurav-bisht-5ba740284)  
+- **🌟 GitHub:** [Your GitHub Profile](github.com/Grav-D-Scientist-08/Python-for-Data-Science)
+- **🤖 YouTube:** [Your YouTube Profile](http://www.youtube.com/@DataDojo779)
 
 ---
 
 ## 📈 GitHub Stats  
-![Your GitHub Stats](github.com/Grav-D-Scientist-08/Python-for-Data-Science/edit/main/README.md)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username) 
 
 ---
 
@@ -38,10 +40,13 @@ I’m Gaurav Bisht, passionate about diving into the endless possibilities of da
 
 ---
 
+
+
 **“Turning data into stories that matter!”**  
 
 
-![Alt text](images/Ds.webp)
+
+
 
 
 
