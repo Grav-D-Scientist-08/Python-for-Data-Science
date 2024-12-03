@@ -28,10 +28,6 @@ I’m Gaurav Bisht, passionate about diving into the endless possibilities of da
 
 ---
 
-
-
----
-
 ## 💡 Current Projects  
 - 🚧 **Price Optimization Project**: Analyzing FMCG product features to predict optimal pricing.  
 - 🌟 **Data Visualization Portfolio**: Interactive dashboards showcasing insights from diverse datasets.  
