@@ -28,9 +28,6 @@ I’m Gaurav Bisht, passionate about diving into the endless possibilities of da
 
 ---
 
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](Hindi, English)
 
 
 ---
